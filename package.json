@@ -1,0 +1,11 @@
+{
+  "name": "informational-site",
+  "version": "1.0.0",
+  "description": "basic informational site, node practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agu",
+  "license": "ISC"
+}
